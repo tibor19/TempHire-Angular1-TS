@@ -1,0 +1,10 @@
+D:\repo\breeze\net\TempHire-Angular\DomainModel\bin\Debug\DomainModel.dll.config
+D:\repo\breeze\net\TempHire-Angular\DomainModel\bin\Debug\DomainModel.dll
+D:\repo\breeze\net\TempHire-Angular\DomainModel\bin\Debug\DomainModel.pdb
+D:\repo\breeze\net\TempHire-Angular\DomainModel\bin\Debug\EntityFramework.dll
+D:\repo\breeze\net\TempHire-Angular\DomainModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\repo\breeze\net\TempHire-Angular\DomainModel\bin\Debug\EntityFramework.xml
+D:\repo\breeze\net\TempHire-Angular\DomainModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\repo\breeze\net\TempHire-Angular\DomainModel\obj\Debug\DomainModel.csprojResolveAssemblyReference.cache
+D:\repo\breeze\net\TempHire-Angular\DomainModel\obj\Debug\DomainModel.dll
+D:\repo\breeze\net\TempHire-Angular\DomainModel\obj\Debug\DomainModel.pdb
